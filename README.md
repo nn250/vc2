@@ -1,1 +1,2 @@
-Hello, my second lesson on vc
+Hello, my second lesson on vc.
+
